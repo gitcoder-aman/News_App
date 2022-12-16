@@ -1,0 +1,5 @@
+https://newsapi.org/v2/top-headlines?sources=news24&apiKey=API_KEY
+https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=24a4b63c5840444f99e853be29a4f403
+https://newsapi.org/v2/top-headlines?sources=the-times-of-india&apiKey=24a4b63c5840444f99e853be29a4f403
+https://newsapi.org/v2/top-headlines?sources=google-news-in&apiKey=24a4b63c5840444f99e853be29a4f403
+https://newsapi.org/v2/top-headlines?sources=the-hindu&apiKey=24a4b63c5840444f99e853be29a4f403
